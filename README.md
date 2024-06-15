@@ -16,5 +16,5 @@ The course is divided into several weeks, covering topics such as:
 
 ## Repository Structure
 Each week folder contains the following:
-`lecture` : Contains lecture notes for the specified week
-`project` : Contains the problem set(s) completed for the specified week
+`lecture` : Contains lecture notes
+`project` : Contains the problem set(s) completed
